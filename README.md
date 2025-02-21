@@ -1,7 +1,7 @@
 # 🏡 Real Estate Regression Project
 
 ## 📊 **Project Overview**
-This project focuses on building a **Multiple Linear Regression** model to analyze the factors influencing real estate prices and to predict the selling prices of future homes. The goal is to help a local real estate investor make **data-driven decisions** for buying, selling, and renovating properties.
+This project focuses on building a Multiple Linear Regression model to analyze the factors influencing real estate prices and to predict the selling prices of future homes. The goal is to help a local real estate investor make data-driven decisions for buying, selling, and renovating properties.
 
 **Key Objectives:**
 - Identify key variables impacting home sale prices.
