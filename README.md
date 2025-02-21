@@ -21,7 +21,6 @@ This project focuses on building a **Multiple Linear Regression** model to analy
 
 ### **Repository Structure**
   ```bash
-## 📁 **Project Structure**
   real_estate_regression/
   ├── Housing_Prices_24.csv                # Main dataset with 1,460 real estate records
   ├── homesforsale.csv                     # Dataset containing homes for prediction
