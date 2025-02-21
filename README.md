@@ -10,8 +10,18 @@ This project focuses on building a **Multiple Linear Regression** model to analy
 
 ---
 
+## **Getting Started**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/TinaGrkovic/real_estate_regression.git
+   cd real_estate_regression
+2. **Run the final notebook:**
+   ```bash
+   jupyter notebook notebooks/real_estate_regression.ipynb
+
+### **Repository Structure**
+  ```bash
 ## 📁 **Project Structure**
-ac
   real_estate_regression/
   ├── Housing_Prices_24.csv                # Main dataset with 1,460 real estate records
   ├── homesforsale.csv                     # Dataset containing homes for prediction
@@ -19,30 +29,3 @@ ac
   ├── Real Estate Presentation.pptx        # Final slide deck for the investor
   ├── Real Estate Regression Project and Data Dictionay.docx  # Project overview & data dictionary
   └── README.md                            # Project overview and documentation
-
----
-
-## 📌 **Key Highlights**
-- 🏠 **Data-Driven Decisions:** Built a robust regression model with 83% R² (adjusted) to predict home prices.
-- 📈 **Top Price Drivers Identified:**
-  - ✅ **Central Air Conditioning** → Increases price by up to 13.01%
-  - ✅ **Garage Spaces** → Adds up to 8.68% value
-  - ❌ **Non-Excellent Kitchens** → Decreases price by up to 22.73%
-- 📊 **Data Preparation:** Handled missing values, created dummy variables for categorical data, and transformed skewed variables.
-- 🎯 **Predictions:** Provided price predictions for 5 homes using the final optimized model.
-
----
-
-## 💡 **Recommendations for Real Estate Investor**
-- **Renovate kitchens** to improve overall home value.
-- **Invest in Central Air installations** for older homes.
-- **Focus on homes with paved driveways** and high curb appeal.
-- **Target properties with the potential for added garage space.**
-
----
-
-## ⚡ **Getting Started**
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/real_estate_regression.git
-   cd real_estate_regression
